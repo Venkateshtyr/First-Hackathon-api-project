@@ -1,0 +1,14 @@
+h1{
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: red;
+    font-family: 'Lato', sans-serif;
+} 
+.a{
+    color: whitesmoke
+}
+body{
+    font-family: 'Lato', sans-serif;
+    background-image: radial-gradient(circle, #78525d, #7e525f, #845261, #895162, #8f5164, #9a4f66, #a64d67, #b14a67, #c54266, #d93763, #ec275f, #ff0059);
+}
